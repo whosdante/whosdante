@@ -49,7 +49,6 @@ Currently studying **Systems Engineering** and completing the **Full Stack Web D
 </div>
 
 ---
----
 
 I'm open to interesting projects, collaborations, and professional opportunities.
 
