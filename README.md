@@ -10,7 +10,7 @@
 
 I'm a **Full Stack Developer** focused on building web applications and turning ideas into real, functional products.
 
-Currently studying **Systems Engineering** and completing the **Full Stack Web Development bootcamp at Henry**, while building my software development portfolio.
+Currently studying **Systems Engineering** and completing the **Full Stack Web Development studies*, while building my software development portfolio.
 
 - 🎓 **Systems Engineering Student**
 - 💻 **Full Stack Developer**
